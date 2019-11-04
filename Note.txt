@@ -10,5 +10,5 @@ https://tailwindcss.com/docs/background-color
 
 C:\react\tailwindcss-crash>npm init -y
 C:\react\tailwindcss-crash>npm install tailwindcss
-
+C:\react\tailwindcss-crash>npx tailwind init
 
