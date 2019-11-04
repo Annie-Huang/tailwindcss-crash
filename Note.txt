@@ -5,10 +5,13 @@ https://github.com/Annie-Huang/tailwindcss-crash
 
 https://tailwindcss.com/docs/installation/
 https://tailwindcss.com/docs/background-color
+https://tailwindcss.com/docs/configuration
 
 ======================================================================
 
 C:\react\tailwindcss-crash>npm init -y
 C:\react\tailwindcss-crash>npm install tailwindcss
-C:\react\tailwindcss-crash>npx tailwind init
 
+
+C:\react\tailwindcss-crash>npx tailwind init
+C:\react\tailwindcss-crash>npm run build:css    << Need to rebuild the css after you make changes in tailwind.config.js
