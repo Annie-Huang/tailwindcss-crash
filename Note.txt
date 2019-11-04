@@ -4,3 +4,7 @@ https://codepen.io/bradtraversy/pen/JgXqBL
 https://github.com/Annie-Huang/tailwindcss-crash
 https://tailwindcss.com/docs/installation/
 
+C:\react\tailwindcss-crash>npm init -y
+C:\react\tailwindcss-crash>npm install tailwindcss
+
+
