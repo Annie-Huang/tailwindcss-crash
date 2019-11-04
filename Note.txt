@@ -7,6 +7,14 @@ https://tailwindcss.com/docs/installation/
 https://tailwindcss.com/docs/background-color
 https://tailwindcss.com/docs/configuration
 
+https://tailwindcss.com/docs/padding
+https://tailwindcss.com/docs/width
+https://tailwindcss.com/docs/max-width
+https://tailwindcss.com/docs/flex-direction
+https://tailwindcss.com/docs/flex-wrap
+https://tailwindcss.com/docs/align-items
+https://tailwindcss.com/docs/justify-content
+
 ======================================================================
 
 C:\react\tailwindcss-crash>npm init -y
