@@ -15,3 +15,5 @@ C:\react\tailwindcss-crash>npm install tailwindcss
 
 C:\react\tailwindcss-crash>npx tailwind init
 C:\react\tailwindcss-crash>npm run build:css    << Need to rebuild the css after you make changes in tailwind.config.js
+
+Make changes in the style.css would also need to rebuild.
